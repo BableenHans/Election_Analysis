@@ -51,4 +51,6 @@ The analysis of the election shows that:
   -	The county that had the highest turnout was Denver
 
 ## Election Audit summary:  
+The election commission can explore the script to use it for various other elections as well- school board, presidential, etc. 
+the script can be modified to group similar topics counties first and then look into voting results as well. this would allow us to explore in a more compartmentalized manner. 
 
